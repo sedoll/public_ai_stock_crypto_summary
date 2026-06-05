@@ -1,5 +1,12 @@
 # AI Stock & Crypto Summary Bot
 
+## Links
+
+- Telegram: https://t.me/ai_stock_crypto_summary_news
+- Threads: https://www.threads.com/@se_do146?hl=ko
+
+## 소개
+
 주식과 코인 관련 Telegram 채널, 뉴스, YouTube 영상 내용을 모아 AI로 요약해 발행하는 자동화 봇입니다.
 
 매일 시장 관련 메시지와 콘텐츠를 정리해 핵심 흐름을 빠르게 볼 수 있도록 만들었습니다. 요약 결과는 Telegram과 Threads에 게시됩니다.
@@ -70,8 +77,3 @@ Threads는 일반 본문 길이에 제한이 있어 긴 요약을 그대로 올�
 
 - 수집 대상과 발행 옵션을 DB에서 관리하도록 바꿨습니다.
 - 채널별로 Telegram 또는 Threads 발행 여부를 선택할 수 있게 구성했습니다.
-
-## Links
-
-- Telegram: https://t.me/ai_stock_crypto_summary_news
-- Threads: https://www.threads.com/@se_do146?hl=ko

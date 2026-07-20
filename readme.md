@@ -2,7 +2,7 @@
 
 ## Links
 
-- Telegram: https://t.me/ai_stock_crypto_summary_news
+- Telegram: https://t.me/osc_news
 - Threads: https://www.threads.com/@ai_stock_crypto_summary_news?hl=ko
 
 ## 소개
